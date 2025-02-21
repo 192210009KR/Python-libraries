@@ -3,4 +3,5 @@ a1=np.arange(5)
 print(a1)
 
 
+# the function "arange" is used to define the elements
 #the first element of the array will be 0 and the last element will be n-1
