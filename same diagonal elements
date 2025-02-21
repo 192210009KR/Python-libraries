@@ -2,3 +2,8 @@ import numpy as np
 
 a1=np.eye(4,4)
 print(a1)
+
+
+
+
+#  the function "eye" is used to define the same diagonal elements
