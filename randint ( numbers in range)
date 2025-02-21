@@ -1,0 +1,11 @@
+import numpy as np
+a1=np.random.randint(5,23,6)
+a2=np.random.randint(3,56,(4,5))
+print(a1)
+print(a2)
+
+
+# the function "randint" is used get the elements in the range the we give
+
+# every time we run the program the output varies each time
+
