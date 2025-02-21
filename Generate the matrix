@@ -1,0 +1,6 @@
+import numpy as np
+#check the class type of the array
+a1=np.zeros(5)
+a2=np.ones((3,4))
+print(a1)
+print(a2)
