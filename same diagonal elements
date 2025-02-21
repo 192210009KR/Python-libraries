@@ -1,1 +1,4 @@
-
+import numpy as np
+#check the class type of the array
+a1=np.eye(4,4)
+print(a1)
