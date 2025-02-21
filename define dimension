@@ -1,0 +1,5 @@
+import numpy as np
+#check the class type of the array
+list1=[1,2,3,4,5,6,6]
+ar1=np.array(list1,ndmin=5)
+print(ar1)
