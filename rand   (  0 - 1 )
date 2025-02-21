@@ -1,0 +1,10 @@
+import numpy as np
+a1=np.random.rand(5)
+print(a1)
+
+
+# the function "rand" is used get the elements in the range 0 to 1
+
+# every time we run the program the output varies each time
+
+# 5 is the number of elements that we need in the array
