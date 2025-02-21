@@ -1,0 +1,12 @@
+import numpy as np
+a1=np.linspace(3,12,5)
+print(a1)
+
+
+
+# here the function "linspace" is used to get the array of the elements with the same difference 
+
+
+#  3 is the starting element
+#  12 is the ending element
+#  5 is the number of elements that we need
